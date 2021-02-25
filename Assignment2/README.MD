@@ -7,7 +7,7 @@
 3. Complete the Python program (naïve_bayes.py) that will read the file weather_training.csv (training set) and output the classification of each test instance from the file weather_test (test set) if the classification confidence is >= 0.75. Sample of output: 
 
   |Day| Outlook| Temperature| Humidity| Wind| PlayTennis| Confidence |
-  -------------------------------------------------------------------
+  |---|--------|------------|---------------|-----------|------------|
   |D15| Sunny| Hot| High| Weak| No| 0.86|
   |D16| Sunny| Mild| High| Weak| Yes| 0.78| 
 
