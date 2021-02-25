@@ -7,11 +7,11 @@
 | Actual Yes |       TP      |      FN      |
 | Actual No  |       FP      |      TN      |
 
-<a align="center" href="https://ibb.co/LY2SbLD"><img src="https://i.ibb.co/ydb0Gwm/Untitled.png" alt="accuracy" border="0" height="80px"></a>
+<a align="center" href="https://ibb.co/LY2SbLD"><img src="https://i.ibb.co/ydb0Gwm/Untitled.png" alt="accuracy" border="0" height="40px"></a>
 
 
 2. Complete the python program (knn.py) that will read the file binary_points.csv and output the LOO-CV error rate for 1NN. Test and calculate the error rate by sequential taking one instance in dataset as a test sample.
-<a align="center" href="https://ibb.co/Jjr381R"><img src="https://i.ibb.co/zVP6CMh/Untitled.png" alt="errorrate" border="0" height="80px"></a>
+<a align="center" href="https://ibb.co/Jjr381R"><img src="https://i.ibb.co/zVP6CMh/Untitled.png" alt="errorrate" border="0" height="40px"></a>
 
 
 3. Complete the Python program (naïve_bayes.py) that will read the file weather_training.csv (training set) and output the classification of each test instance from the file weather_test (test set) if the classification confidence is >= 0.75. Sample of output: 
