@@ -34,7 +34,7 @@ File included for this problem:
   | D15 | Sunny   | Hot         | High     | Weak | No         | 0.86       |
   | D16 | Sunny   | Mild        | High     | Weak | Yes        | 0.78       |
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/RbWKr0z/Untitled.png" alt="naive bayes" border="0" height="90"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/RbWKr0z/Untitled.png" alt="naive bayes" border="0" height="150"></a>
 
 File included for this problem:
 * naive_bayes.py
