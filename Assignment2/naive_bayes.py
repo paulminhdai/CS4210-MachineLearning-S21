@@ -1,10 +1,11 @@
-#-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+#---------------------------------------------------------------------------------------
+# AUTHOR: Paul (Dai) Vuong
+# FILENAME: applied naive bayes algorithm to predict play tennis with weather conditions
+# SPECIFICATION: train data with Naive Bayes algorithm and predict test data 
+#                if if the classification confidence is >= 0.75
 # FOR: CS 4200- Assignment #2
 # TIME SPENT: 50 mins
-#-----------------------------------------------------------*/
+#--------------------------------------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
 
