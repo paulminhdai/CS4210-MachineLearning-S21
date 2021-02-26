@@ -16,6 +16,7 @@ File included for this problem:
 * contact_lens_training_3.csv
 * contact_lens_test.csv
 
+<hr>
 
 2. Complete the python program (knn.py) that will read the file binary_points.csv and output the LOO-CV error rate for 1NN. Test and calculate the error rate by sequential taking one instance in dataset as a test sample.
 
@@ -24,6 +25,8 @@ File included for this problem:
 File included for this problem:
 * knn.py
 
+<hr>
+
 3. Complete the Python program (naïve_bayes.py) that will read the file weather_training.csv (training set) and output the classification of each test instance from the file weather_test (test set) if the classification confidence is >= 0.75. Sample of output: 
 
   | Day | Outlook | Temperature | Humidity | Wind | PlayTennis | Confidence |
@@ -31,7 +34,7 @@ File included for this problem:
   | D15 | Sunny   | Hot         | High     | Weak | No         | 0.86       |
   | D16 | Sunny   | Mild        | High     | Weak | Yes        | 0.78       |
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/RbWKr0z/Untitled.png" alt="Untitled" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload images</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/RbWKr0z/Untitled.png" alt="naive bayes" border="0" height="90"></a>
 
 File included for this problem:
 * naive_bayes.py
