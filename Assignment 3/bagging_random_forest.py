@@ -101,6 +101,5 @@ with open('optdigits.tes', 'r') as testingFile:
     accuracy = true_count / len(dbTest)
 
     #printing Random Forest accuracy here
-    print("Random Forest accuracy: " + str(accuracy))
-
     print("Finished Random Forest algorithm (much faster and higher accuracy!) ...")
+    print("Random Forest accuracy: " + str(accuracy))
