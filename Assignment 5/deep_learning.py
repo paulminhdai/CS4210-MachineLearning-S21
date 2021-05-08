@@ -1,10 +1,12 @@
-#-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+#--------------------------------------------------------------------------------------------
+# AUTHOR: Dai (Paul) Vuong
+# FILENAME: deep_learning.py
+# SPECIFICATION: Use the dataset Fashion MNIST, 
+#               which includes 70,000 grayscale images of 28×28 pixels each, 
+#               with 10 classes, each class representing a fashion item as illustrated below
 # FOR: CS 4200- Assignment #5
-# TIME SPENT: how long it took you to complete the assignment
-#-----------------------------------------------------------*/
+# TIME SPENT: 2 hours
+#-------------------------------------------------------------------------------------------*/
 
 #importing the libraries
 import tensorflow as tf
